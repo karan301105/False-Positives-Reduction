@@ -1,0 +1,11 @@
+https://github.com/scikit-learn/scikit-learn
+https://imbalanced-learn.org/stable/combine.html
+https://xgboost.readthedocs.io/en/stable/install.html
+https://github.com/catboost/catboost
+https://huggingface.co/docs/datasets/v1.9.0/torch_tensorflow.html
+https://github.com/numpy/numpy
+https://github.com/pandas-dev/pandas
+https://github.com/matplotlib/matplotlib
+https://github.com/mwaskom/seaborn
+https://github.com/pytorch/pytorch
+
