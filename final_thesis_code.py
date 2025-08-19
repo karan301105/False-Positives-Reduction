@@ -307,7 +307,7 @@ def combine_results_base(modellist,methodlist,X,y,output_folder):
             
     return results
 
-def combine_results_base_multiple_runs(modellist, methodlist, X, y, output_folder, n_runs=1):
+def combine_results_base_multiple_runs(modellist, methodlist, X, y, output_folder, n_runs=10):
     all_runs = []
 
     for run in range(n_runs):
@@ -354,7 +354,7 @@ def combine_results_nn(modellist, methodlist, data, output_folder):
 
     return results
 
-def combine_results_nn_multiple_runs(modellist, methodlist, X, y, output_folder, n_runs=1):
+def combine_results_nn_multiple_runs(modellist, methodlist, X, y, output_folder, n_runs=10):
     all_runs = []
 
     for run in range(n_runs):
